@@ -4,8 +4,6 @@ Submissions repository for `ASOC4` - Ads Exchange on Solana
 > [!NOTE]
 All discussions regarding `ASOC4: Ads Exchange on Solana` shall take place in https://github.com/orgs/acm-avv/discussions/12.
 
-https://github.com/acm-avv/sol-ads.rfc
-
 ## Overview
 In-order to be eligible to work on this project as **Request for Code** under the banner of **Amrita Summer of Code, 2025**, you are required to form a team of size 1-4 and have all the members register at [amsoc.vercel.app](https://amsoc.vercel.app)
 
